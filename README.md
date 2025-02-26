@@ -1,4 +1,8 @@
-dataset name?
+### amazon armbench dataset 
+http://armbench.s3-website-us-east-1.amazonaws.com/segmentation.html
+### maybe the article
+https://www.amazon.science/blog/amazon-releases-largest-dataset-for-training-pick-and-place-robots
+
 
 ##### Some Sources That I Used.
 #https://stackoverflow.com/questions/14947909/python-checking-to-which-bin-a-value-belongs

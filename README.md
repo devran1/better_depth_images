@@ -1,6 +1,6 @@
 
 ### Making depth maps more visible
-Number of objects inside image is used to create bins for discretization of the image, then the image is given to the AI for depth map generation. This proces is repeated many times in the first image. For the following images it is repeated only once. We used Amazon Armbench dataset.
+Number of objects inside image is used to create bins for discretization of the image, then the image is given to the AI (intel-isl/MiDaS DPT_Large) for depth map generation. This proces is repeated many times in the first image. For the following images it is repeated only once. We used Amazon Armbench dataset.
 
 <a href="url"><img src="evidence3.png" align="left"></a>
 

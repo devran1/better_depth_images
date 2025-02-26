@@ -7,10 +7,6 @@ Number of objects inside the image is used to create bins for discretization. Th
 
 --------
 
-<a href="url"><img src="evidence2.png" align="left"></a>
-
---------
-
 <a href="url"><img src="evidence.png" align="left"></a>
 
 --------

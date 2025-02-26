@@ -1,0 +1,9 @@
+#python3.11
+
+--find-links https://download.pytorch.org/whl/torch_stable.html
+
+torch==2.0.1+cpu
+torchvision==0.15.2+rocm5.4.2
+opencv-python==4.8.0.76
+matplotlib==3.7.2
+timm==0.9.6

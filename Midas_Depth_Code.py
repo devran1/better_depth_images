@@ -2,8 +2,6 @@
 
 import cv2
 import torch
-import urllib.request
-import numpy as np
 import matplotlib.pyplot as plt
 
 #large=1.28G
